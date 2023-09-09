@@ -1,0 +1,7 @@
+{
+  "title": "客户端页面",
+  "counter_one": "选中一个",
+  "counter_other": "选中{{count}}个",
+  "counter_zero": "没有选中",
+  "back-to-home": "返回首页"
+}
